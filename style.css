@@ -1,0 +1,65 @@
+body{
+    background:  url(images/concrete-texture.png);
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+    margin: 0;
+}
+
+
+div.mid{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+div.header{
+    margin: 0;
+    padding: 20px 0;
+    height: 80px;
+    background: #101417;
+}
+
+
+h2{
+    color:black;
+}
+
+div.unionfst{
+  float: left;
+}
+
+
+div.unionscd{
+  float: right;
+}
+
+footer{
+    align-content: center;
+    height: 200px;
+    background: #101417;
+    width: 1100px;
+    margin:50px auto 0;
+
+}
+
+section.fon{
+    width: 1000px;
+    padding: 5px;
+    background: url(images/brushed_alu_dark_@2X.png);
+
+}
+
+p.last{
+    float: right;
+    margin-top: 90px;
+}
+
+h3{
+    text-align: center;
+    
+}
